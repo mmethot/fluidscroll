@@ -1,5 +1,5 @@
 (function ($) {
-	$.fn.fuildScroll = function() {
+	$.fn.fluidScroll = function() {
 		var divPositions = [];
 		var divs = $('#main').find('div.entry');
 		var count = divs.length;
