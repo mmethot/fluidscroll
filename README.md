@@ -1,7 +1,7 @@
 # fluidscroll
 simple jQuery plugin that allows fluid scrolling between similar containers
 
-<a href=""><b>Demo</b></a>
+<a target="_blank" href="http://codepen.io/noxic/pen/MabPVV"><b>Demo</b></a>
 
 ##Importing the file
 Simply add fluidScroll.js in your HTML page. No css file is necessary.</span>
